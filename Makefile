@@ -1,5 +1,5 @@
 CXX=g++
-CXXFLAGS=-fopenmp -std=c++17 -O3 -Wall
+CXXFLAGS=-fopenmp -std=c++17 -O0 -Wall
 
 all: a0
 
